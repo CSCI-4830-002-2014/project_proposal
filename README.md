@@ -23,6 +23,6 @@ Some of the milestones are:
 
 ## Necessary Tools
 Programming Languages:
-	- C (arduino)
-	- Python (web server)
-	- Music (mlp melopy format for music)
+- C (arduino)
+- Python (web server)
+- Music (mlp melopy format for music)
