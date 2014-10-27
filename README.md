@@ -27,4 +27,4 @@ We would likely need multiple sensors with mounts as well as space for the proje
 http://docs.opencv.org/modules/contrib/doc/facerec/facerec_tutorial.html (supports python, c, c++). 
 
 ## Supporting Images
-(http://i.imgur.com/XBQlXuj.png)
+![image](http://i.imgur.com/XBQlXuj.png)
