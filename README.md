@@ -4,9 +4,9 @@ Use this template to submit your project proposal and we will vote on them next 
 
 ## Description
 
-My idea would be to use the SORCE (Solar Radiation & Climate Experiment) Satellite data available [here](http://lasp.colorado.edu/home/sorce/data/) and show the change TSI (Total Solar Irradation) over its 10+ year lifetime.  The speed at which we cycle through the data visually can dynamically respond to the activity in the room.  For example, the visualization will spin through 1 year per minute when there is a lot of noise and movement (either based on proximity or general motion), but may change at only 1 day per mintue when the ambiance is less intense.
+My idea would be to use the SORCE (Solar Radiation & Climate Experiment) Satellite data available [here](http://lasp.colorado.edu/home/sorce/data/) and show the change TSI (Total Solar Irradation) or SSI (Spectral Solar Irradiance) over its 10+ year lifetime.  The speed at which we cycle through the data visually can dynamically respond to the activity in the room.  For example, the visualization will spin through 1 year per minute when there is a lot of noise and movement (either based on proximity or general motion), but may change at only 1 day per mintue when the ambiance is less intense.
 
-Individuals will be able to interact with a fun visualization while learning about the sun's cycles.  Plus it's neat that this data comes from the LASP, which is both part of the University.
+Individuals will be able to interact with a fun visualization while learning about the sun's cycles (important for understanding/predicting solar flares and climate change).  Plus it's neat that this data comes from the LASP, which is part of the University.
 
 ## Interaction | Data Capture
 A combination of proximity/motion and noise with cause the visualization to react to the ambiance in the room.
@@ -15,7 +15,7 @@ A combination of proximity/motion and noise with cause the visualization to reac
 It will be projected onto the wall.
 
 ## Milestones
-* Analyze the data
+* Analyze and clean the data
 * Conceptualize a visual abstraction
 * Create an algorithm that interprets arduino data and interacts with the visualization
 * Implement and piece together
