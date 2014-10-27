@@ -3,19 +3,20 @@
 Use this template to submit your project proposal and we will vote on them next week to decide 4 to implement in the final project.  Remember this project will be a single feature in a multi-feature exhibit for the ATLAS Lobby.
 
 ## Description
-[Give a broad description of the project you'd like to see implanted in the ATLAS Lobby.]
+A simple picture with lots of people and using motion sensors, the eyes of all the people follow you around where ever you stand. Everyone can wave goodbye once the motion sensor doesn’t register anyone there anymore. Got inspiration from the living pictures in Hogwarts (Harry Potter).
 
 ## Interaction | Data Capture
-[Explain what would drive your installation - i.e., how would the user interact and feed it data or how would it collect data passively]
+The user would walk around and interact with the motion sensor right next to the screen.
 
 ## Vizualization
-[How would we present this data on the screens in the lobby?]
+The movement of the eyes and the actions of the people would represent the data from the motion sensor.
 
 ## Milestones
-[Give a rough flow for your project.  Explain the steps that would be involved to move from idea to completed implementation.]
+Find a good picture and customize the eyes so they can be changed where they are looking. Set up a motion sensor and make it so it is in line with the eyes. Design it so the graphics response to movement.
 
 ## Necessary Tools
-[What programming languages, sensors, hardware, etc, are necessary to finish your project]
+Motion sensor, some sort of graphic/picture editing tool.
+
 
 ## Supporting Images
 [NOT REQUIRED FOR SUBMISSION.  Use this space to add any drawings, pictures, or supporting material that clarifies or exemplifies what you're project would look like or how the visualization would be designed.]
