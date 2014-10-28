@@ -3,19 +3,22 @@
 Use this template to submit your project proposal and we will vote on them next week to decide 4 to implement in the final project.  Remember this project will be a single feature in a multi-feature exhibit for the ATLAS Lobby.
 
 ## Description
-[Give a broad description of the project you'd like to see implanted in the ATLAS Lobby.]
+I would like to see a project which counts the number of people in the building, and displays this on a screen either with dots for each person, a fading/sizing display based on which door is used the most, or a display utilizing time.
 
 ## Interaction | Data Capture
-[Explain what would drive your installation - i.e., how would the user interact and feed it data or how would it collect data passively]
+There will be IR distance sensors on each doorway entering the building. These will count people entering the building. Some double doors may need to be locked shut to prevent people from entering the building in pairs.
 
 ## Vizualization
-[How would we present this data on the screens in the lobby?]
+A screen either with dots for each person, a fading/sizing display based on which door is used the most, or a display utilizing time vs. entrances and exits.
 
 ## Milestones
-[Give a rough flow for your project.  Explain the steps that would be involved to move from idea to completed implementation.]
+* Get approval to lock some of the doors/see if it is possible.
+* Acquire IR distance sensor.
+* Test the sensor to see what distances we can read and how fast it can poll.
+* Prototype the code in the classroom
+* Create visualization from data
+* Test/Implement in Lobby
 
 ## Necessary Tools
-[What programming languages, sensors, hardware, etc, are necessary to finish your project]
+We will need a display, a computer, an arduino with a bluetooth shield, an IR distance sensor and wiring.
 
-## Supporting Images
-[NOT REQUIRED FOR SUBMISSION.  Use this space to add any drawings, pictures, or supporting material that clarifies or exemplifies what you're project would look like or how the visualization would be designed.]
